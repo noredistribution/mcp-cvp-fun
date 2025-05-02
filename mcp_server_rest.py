@@ -1,3 +1,16 @@
+#!/usr/bin/python3
+
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "mcp.server.fastmcp",
+#     "dotenv",
+#     "httpx"
+# ]
+# [tool.uv]
+# exclude-newer = "2024-08-05T00:00:00Z"
+# ///
+
 from typing import Any
 import httpx
 from mcp.server.fastmcp import FastMCP
