@@ -7,7 +7,7 @@
 >
 > The free plan of Claude might cause anxiety!
 
-Kudos to `[@burnyd](https://github.com/burnyd)` for the inspiriation and for writing this blog post: [https://danielhertzberg.net/posts/mcp-servers/](https://danielhertzberg.net/posts/mcp-servers/)
+Kudos to [@burnyd](https://github.com/burnyd) for the inspiriation and for writing this blog post: [https://danielhertzberg.net/posts/mcp-servers/](https://danielhertzberg.net/posts/mcp-servers/)
 
 Expanding on that, I've added a few more API calls to be able to ask Claude to get connectivity monitor data, and create tags for Studios and dashboards, but obviously any API call can be added very easy with the `@mcp.tool()` decorator.
 
